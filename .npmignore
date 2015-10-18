@@ -8,3 +8,5 @@ test.js
 demo/
 .npmignore
 LICENSE.md
+index.es6.js
+.idea

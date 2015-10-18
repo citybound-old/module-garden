@@ -2,7 +2,7 @@
 
 [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
 
-A module loader that adds all modules as globals (best used with walled-garden)
+A module loader that adds all modules as globals (uses walled-garden)
 
 ## Usage
 

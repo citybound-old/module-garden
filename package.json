@@ -1,7 +1,7 @@
 {
   "name": "module-garden",
   "version": "0.0.1",
-  "description": "A module loader that adds all modules as globals (best used with walled-garden)",
+  "description": "A module loader that adds all modules as globals (uses walled-garden)",
   "main": "index.js",
   "license": "MIT",
   "author": {
