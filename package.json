@@ -9,7 +9,9 @@
     "email": "anselm.eickhoff@gmail.com",
     "url": "https://github.com/aeickhoff"
   },
-  "dependencies": {},
+  "dependencies": {
+    "walled-garden": "git://github.com/citybound/walled-garden.git#master"
+  },
   "devDependencies": {
     "tape": "^4.2.1"
   },
