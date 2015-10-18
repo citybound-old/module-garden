@@ -1,0 +1,33 @@
+{
+  "name": "module-garden",
+  "version": "0.0.1",
+  "description": "A module loader that adds all modules as globals (best used with walled-garden)",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Anselm Eickhoff",
+    "email": "anselm.eickhoff@gmail.com",
+    "url": "https://github.com/aeickhoff"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.2.1"
+  },
+  "scripts": {
+    "compile": "babel --blacklist=regenerator -o index.js index.es6.js",
+    "prepublish": "npm run compile",
+    "test": "node test-compiled.js"
+  },
+  "keywords": [
+    "module",
+    "loader"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/citybound/module-garden.git"
+  },
+  "homepage": "https://github.com/citybound/module-garden",
+  "bugs": {
+    "url": "https://github.com/citybound/module-garden/issues"
+  }
+}
