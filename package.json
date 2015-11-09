@@ -1,6 +1,6 @@
 {
   "name": "module-garden",
-  "version": "0.0.1",
+  "version": "0.0.7",
   "description": "A module loader that adds all modules as globals (uses walled-garden)",
   "main": "index.js",
   "license": "MIT",
@@ -10,13 +10,14 @@
     "url": "https://github.com/aeickhoff"
   },
   "dependencies": {
-    "walled-garden": "git://github.com/citybound/walled-garden.git#master"
+    "meta-eval": "*",
+    "babel-core": "^5.1.10"
   },
   "devDependencies": {
     "tape": "^4.2.1"
   },
   "scripts": {
-    "compile": "babel --blacklist=regenerator -o index.js index.es6.js",
+    "compile": "babel --blacklist=regenerator,es6.forOf -o index.js index.es6.js",
     "prepublish": "npm run compile",
     "test": "node test-compiled.js"
   },

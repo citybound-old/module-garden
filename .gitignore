@@ -3,5 +3,5 @@ node_modules
 *.log
 .DS_Store
 bundle.js
-.idea/
+.idea
 index.js
