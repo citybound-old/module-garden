@@ -81,11 +81,11 @@ export default class Explosion {
 `startGame.js`
 ```javascript
 $('document').ready(() => {
-    let fire = new Fire();
+    let explosion = new Explosion();
     
     let dt = 1/60;
     
-    setInterval(() => fire.update(dt), dt);
+    setInterval(() => explosion.update(dt), dt);
 })
 ```
 
