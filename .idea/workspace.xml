@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad406f9b-dc5c-4574-89db-4bf179db0fa1" name="Default" comment="deleted idea stuff&#10;">
+    <list default="true" id="ad406f9b-dc5c-4574-89db-4bf179db0fa1" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/module-garden.iml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.es6.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.js" afterPath="" />
     </list>
     <ignored path="module-garden.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,8 +53,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.71397847">
-              <caret line="86" column="4" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.8107527">
+              <caret line="89" column="3" selection-start-line="89" selection-start-column="3" selection-end-line="89" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -257,7 +264,13 @@
       <option name="project" value="LOCAL" />
       <updated>1447105504082</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="deleted idea stuff&#10;">
+      <created>1447105548492</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1447105548492</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -301,9 +314,9 @@
     <MESSAGE value="first implementation" />
     <MESSAGE value="cleanup and actually delete idea stuff" />
     <MESSAGE value="full readme&#10;" />
-    <MESSAGE value="deleted idea stuff&#10;" />
     <MESSAGE value="readme fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme fix" />
+    <MESSAGE value="deleted idea stuff&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted idea stuff&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -372,8 +385,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71397847">
-          <caret line="86" column="4" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.8107527">
+          <caret line="89" column="3" selection-start-line="89" selection-start-column="3" selection-end-line="89" selection-end-column="3" />
           <folding />
         </state>
       </provider>
