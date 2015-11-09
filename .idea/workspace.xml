@@ -46,8 +46,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3548387">
-              <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.71397847">
+              <caret line="86" column="4" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -245,7 +245,19 @@
       <option name="project" value="LOCAL" />
       <updated>1447105314268</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="deleted idea stuff&#10;">
+      <created>1447105344412</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1447105344412</updated>
+    </task>
+    <task id="LOCAL-00008" summary="readme fix">
+      <created>1447105504082</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1447105504082</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -286,11 +298,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial es6 setup" />
     <MESSAGE value="repo fixes" />
-    <MESSAGE value="deleted idea stuff&#10;" />
     <MESSAGE value="first implementation" />
     <MESSAGE value="cleanup and actually delete idea stuff" />
     <MESSAGE value="full readme&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="full readme&#10;" />
+    <MESSAGE value="deleted idea stuff&#10;" />
+    <MESSAGE value="readme fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -359,8 +372,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3548387">
-          <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.71397847">
+          <caret line="86" column="4" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
           <folding />
         </state>
       </provider>
