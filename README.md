@@ -103,4 +103,4 @@ Your help is highly welcome! :)
 
 ## License
 
-MIT, see [LICENSE.md](http://github.com/aeickhoff/module-garden/blob/master/LICENSE.md) for details.
+MIT, see [LICENSE.md](http://github.com/citybound/module-garden/blob/master/LICENSE.md) for details.
